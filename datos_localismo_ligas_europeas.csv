@@ -1,0 +1,20 @@
+league_name,club_name,club_country,season,total_players,local_players,foreign_players,local_ratio,foreign_ratio
+LaLiga,Real Madrid,Spain,2025,24,12,12,0.5,0.5
+LaLiga,FC Barcelona,Spain,2025,23,14,9,0.6087,0.3913
+LaLiga,Atlético de Madrid,Spain,2025,21,7,14,0.3333,0.6667
+LaLiga,Athletic Bilbao,Spain,2025,27,27,0,1.0,0.0
+LaLiga,Real Sociedad,Spain,2025,26,19,7,0.7308,0.2692
+Premier League,Arsenal FC,England,2025,58,8,50,0.1379,0.8621
+Premier League,Manchester City,England,2025,26,7,19,0.2692,0.7308
+Premier League,Liverpool FC,England,2025,26,5,21,0.1923,0.8077
+Premier League,Chelsea FC,England,2025,32,11,21,0.3438,0.6562
+Bundesliga,Bayern Munich,Germany,2025,23,12,11,0.5217,0.4783
+Bundesliga,Eintracht Frankfurt,Germany,2025,27,14,13,0.5185,0.4815
+Bundesliga,RB Leipzig,Germany,2025,23,7,16,0.3043,0.6957
+Serie A,Inter Milan,Italy,2025,25,10,15,0.4,0.6
+Serie A,Juventus FC,Italy,2025,26,8,18,0.3077,0.6923
+Serie A,SSC Napoli,Italy,2025,27,12,15,0.4444,0.5556
+Serie A,AC Milan,Italy,2025,22,6,16,0.2727,0.7273
+Serie A,Atalanta BC,Italy,2025,25,10,15,0.4,0.6
+Ligue 1,AS Monaco,France,2025,27,9,18,0.3333,0.6667
+Ligue 1,OGC Nice,France,2025,29,13,16,0.4483,0.5517
