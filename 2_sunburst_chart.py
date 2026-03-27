@@ -214,7 +214,7 @@ ax.legend(handles=legend_players, loc='center left',
 
 plt.tight_layout(rect=[0, 0.04, 1, 1])  # espacio para la fuente en la base
 fig.text(0.5, 0.01,
-         'Fuente: https://github.com/salimt/football-datasets/tree/main/datalake/transfermarkt',
+         'Fuente: Transfermarkt Datasets - Github: salimt/football-datasets',
          ha='center', fontsize=6, color='gray', style='italic')
 
 # ── Exportar HTML ─────────────────────────────────────────────────────────────
